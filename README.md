@@ -1,4 +1,3 @@
-![resim](https://4.downloader.disk.yandex.com.tr/preview/20c15cb38812ab404f54688ece6ca7d4be580cf4b68ef9abefafb82cc14abdc5/inf/GWy7iQFfi8GzWm-qdhzamBLibEwj6wjscbAT-7mP99tFYgLoK_waZm07BF7DEKALksSbzPxYQ7cSoRsTDCYmNw%3D%3D?uid=546409968&filename=Markdown-mark.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1249x485)
 ## This Is My CV
 ### Personal Informaton
 >* **Name**: _Serkan_
@@ -14,3 +13,5 @@
 ### Experiences
 >* **Languages**:_Turkish and English_
 >* **Computer Skills**:_Html,Asp.Net,PHP_
+---
+![Resim](https://4.downloader.disk.yandex.com.tr/preview/2cda69eb77d607bec87ad1dc851d40c4e1ddad0c3e3583f11c9c01e907bcce9e/inf/GWy7iQFfi8GzWm-qdhzamLoA9yo4E9UAQA_yFuvuqFSnsND8DZndEwc5IELiM1YWk8QarlPRGRQ2SLLOdTaUDg%3D%3D?uid=546409968&filename=Serkanaltun.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1249x485)
