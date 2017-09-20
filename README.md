@@ -1,11 +1,15 @@
-## This Ýs My CV
+## This Is My CV
 
-### Personal Ýnformaton
+### Personal Ä°nformaton
 >* **Name**: _Serkan_
 >* **Surname**: _Altun_
 >* **Date Of Birth**: _23.09.2000_
 >* **Place Of Birth**: _Kartal_
 ---
 ### Contact
->* **Address**: _Kartal/Ýstanbul_
+>* **Address**: _Kartal/Ä°stanbul_
 >* **E-Mail**: _serkanaltn61@gmail.com_
+---
+### Experiences
+>* **Languages**:_Turkish and English_
+>* **Computer Skills**:_Html,Asp.Net,PHP_
