@@ -8,6 +8,7 @@
 * ## Contact
   * **Address**: _Kartal/İstanbul_
   * **E-Mail**: _serkanaltn61@gmail.com_
+  * **[Google+](https://plus.google.com/108108082277962776358?hl=tr)**
 ---
 * ## Experiences
   * **Languages**:_Turkish and English_
