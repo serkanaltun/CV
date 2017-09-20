@@ -2,7 +2,6 @@
 ### Personal Informaton
 >* **Name**: _Serkan_
 >* **Surname**: _Altun_
->* **
 >* **Date Of Birth**: _23.09.2000_
 >* **Place Of Birth**: _Kartal_
 ---
