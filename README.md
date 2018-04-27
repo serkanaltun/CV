@@ -12,4 +12,4 @@
 ---
 * ## Experiences
   * **Languages**:_Turkish and English_
-  * **Computer Skills**:_Html,Asp.Net,PHP_
+  * **Computer Skills**:_Html,CSS,SQL,Asp.Net,PHP,Photoshop,EdgeAnimate_
