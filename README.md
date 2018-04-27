@@ -11,5 +11,5 @@
   * **[Google+](https://plus.google.com/108108082277962776358?hl=tr)**
 ---
 * ## Experiences
-  * **Languages**:_Turkish and English_
-  * **Computer Skills**:_Html, CSS, SQL, Asp.Net, PHP, Photoshop, EdgeAnimate_
+  * **Languages**: _Turkish and English_
+  * **Computer Skills**: _Html, CSS, SQL, Asp.Net, PHP, Photoshop, EdgeAnimate_
