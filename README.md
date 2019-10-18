@@ -13,4 +13,4 @@
 ---
 * ## Experiences
   * **Languages**: _Turkish and English_
-  * **Computer Skills**: _Html, CSS, SQL, Asp.Net, PHP, Photoshop, EdgeAnimate_
+  * **Computer Skills**: _Html, CSS, SQL, Asp.Net, PHP, Photoshop_
