@@ -1,5 +1,5 @@
 ## This Is My CV
- * ## Personal Informaton
+ * ## Personal Information
    * **Name**: _Serkan_
    * **Surname**: _Altun_
    * **School**: _İstanbul Bilgi Üniversitesi : School of Advanced Vocational Studies : Computer Programming_
