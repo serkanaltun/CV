@@ -13,4 +13,4 @@
 ---
 * ## Experiences
   * **Languages**: _Turkish and English_
-  * **Computer Skills**: _Html, CSS, SQL, C, C#, Photoshop_
+  * **Computer Skills**: _Html, CSS, SQL, C, C#, PHP, asp.NET, Java, Photoshop_
